@@ -26,7 +26,7 @@
     "debug": "^2.6.0",
     "globby": "^6.1.0",
     "sane": "^1.7.0",
-    "socket.io": "^1.7.2"
+    "socket.io": "^2.4.0"
   },
   "peerDependencies": {
     "@phenomic/core": "^1.0.0-beta.3"
